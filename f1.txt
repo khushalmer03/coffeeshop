@@ -7,3 +7,5 @@ hello /n world
 hello 
  world
 not staged
+
+for staging

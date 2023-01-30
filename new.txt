@@ -1,6 +1,0 @@
-firstline
-
-not added to staging area
-hello
-again
-123
