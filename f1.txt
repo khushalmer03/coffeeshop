@@ -1,12 +1,2 @@
-7
-8
-9
-hello
-hello
-hello /n world
-hello 
- world
-not staged
 
-for staging
-for working
+hello
