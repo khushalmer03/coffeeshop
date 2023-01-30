@@ -1,3 +1,5 @@
 firstline
-line added in working dir
+
 not added to staging area
+hello
+again
