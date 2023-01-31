@@ -1,2 +1,6 @@
-
-hello
+changes in stash but not in commit
+another change for stash
+<<<<<<< Updated upstream
+=======
+game e
+>>>>>>> Stashed changes
